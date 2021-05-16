@@ -1,7 +1,7 @@
 # toc-to-bik-bitv
 
-Inhaltsverzeichnis (Auswahl) für [WCAG-Prüfschritte der BIK](https://github.com/BIK-BITV/BIK-Web-Test). Beinhaltet die 50 Erfolkskriterien der Konformitätsstufen A und AA der W3C
-https://www.w3.org/TR/WCAG21/[Web Content Accessibility Guidelines (WCAG) 2.1].
+Inhaltsverzeichnis (Auswahl) für [WCAG-Prüfschritte der BIK](https://github.com/BIK-BITV/BIK-Web-Test). Beinhaltet die 50 Erfolgskriterien der Konformitätsstufen A und AA der W3C
+[Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/).
 
 | Nr.  | Stufe  | Erfolgskriterium (Link)  |
 | :--- | -- | :------- |
