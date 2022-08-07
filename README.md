@@ -3,6 +3,11 @@
 Inhaltsverzeichnis (Auswahl) für [WCAG-Prüfschritte der BIK](https://github.com/BIK-BITV/BIK-Web-Test). Beinhaltet die 50 Erfolgskriterien der Konformitätsstufen A und AA der W3C
 [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/).
 
+* [1. Prinzip: Wahrnehmbarkeit](#1-prinzip-wahrnehmbarkeit)
+* [2. Prinzip: Bedienbarkeit](#2-prinzip-bedienbarkeit)
+* [3. Prinzip: Verständlichkeit](#3-prinzip-verständlichkeit)
+* [4. Prinzip: Robustheit](#4-prinzip-robustheit)
+
 ## 1. Prinzip: Wahrnehmbarkeit
 
 | Nr.  | Stufe  | Erfolgskriterium (Link)  |
