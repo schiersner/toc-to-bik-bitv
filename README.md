@@ -3,9 +3,10 @@
 Inhaltsverzeichnis (Auswahl) für [WCAG-Prüfschritte der BIK](https://github.com/BIK-BITV/BIK-Web-Test). Beinhaltet die 50 Erfolgskriterien der Konformitätsstufen A und AA der W3C
 [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/).
 
+## 1. Prinzip: Wahrnehmbarkeit
+
 | Nr.  | Stufe  | Erfolgskriterium (Link)  |
 | :--- | -- | :------- |
-| **1. Prinzip** |  | **Wahrnehmbarkeit** |
 | 1.1.1 | A  | Nicht-Text-Inhalt | 
 | | | [a Alternativtexte für Bedienelemente](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.1.1.1a%20Alternativtexte%20f%C3%BCr%20Bedienelemente.adoc) |
 | | | [b Alternativtexte für Grafiken und Objekte](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.1.1.1b%20Alternativtexte%20f%C3%BCr%20Grafiken%20und%20Objekte.adoc) |
@@ -38,7 +39,11 @@ Inhaltsverzeichnis (Auswahl) für [WCAG-Prüfschritte der BIK](https://github.co
 | 1.4.11 | AA | [Nicht-Text-Kontrast](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.1.4.11%20Kontraste%20von%20Grafiken%20und%20grafischen%20Bedienelementen%20ausreichend.adoc)  |	
 | 1.4.12 | AA | [Textabstand](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.1.4.12%20Textabst%C3%A4nde%20anpassbar.adoc)  |	
 | 1.4.13 | AA | [Eingeblendeter Inhalt bei Darüberschweben (Hover) oder Fokus](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.1.4.13%20Eingeblendete%20Inhalte%20bedienbar.adoc)  |
-| **2. Prinzip** |  | **Bedienbarkeit**  |
+
+## 2. Prinzip: Bedienbarkeit
+
+| Nr.  | Stufe  | Erfolgskriterium (Link)  |
+| :--- | -- | :------- |
 | 2.1.1 | A  | [Tastatur](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.2.1.1%20Ohne%20Maus%20nutzbar.adoc)  |	
 | 2.1.2 | A  | [Keine Tastaturfalle](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.2.1.2%20Keine%20Tastaturfalle.adoc)  |
 | 2.1.4 | A  | [Tastaturkürzel](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.2.1.4%20Tastatur-Kurzbefehle%20abschaltbar%20oder%20anpassbar.adoc)  |
@@ -56,7 +61,11 @@ Inhaltsverzeichnis (Auswahl) für [WCAG-Prüfschritte der BIK](https://github.co
 | 2.5.2 | A  | [Abbruch der Zeigeraktion](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.2.5.2%20Zeigergesten-Eingaben%20k%C3%B6nnen%20abgebrochen%20oder%20widerrufen%20werden.adoc)  |
 | 2.5.3 | A  | [Beschriftung (Label) im Namen](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.2.5.3%20Sichtbare%20Beschriftung%20Teil%20des%20zug%C3%A4nglichen%20Namens.adoc)  |
 | 2.5.4 | A  | [Betätigung durch Bewegung](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.2.5.4%20Alternativen%20f%C3%BCr%20Bewegungsaktivierung.adoc)  |	
-| **3. Prinzip**  |    | **Verständlichkeit**
+
+## 3. Prinzip: Verständlichkeit
+
+| Nr.  | Stufe  | Erfolgskriterium (Link)  |
+| :--- | -- | :------- |
 | 3.1.1 | A  | [Sprache der Seite](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.3.1.1%20Hauptsprache%20angegeben.adoc)  |	
 | 3.1.2 | AA | [Sprache von Teilen](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.3.1.2%20Anderssprachige%20W%C3%B6rter%20und%20Abschnitte%20ausgezeichnet.adoc)  |
 | 3.2.1 | A  | [Bei Fokus](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.3.2.1%20Keine%20unerwartete%20Kontext%C3%A4nderung%20bei%20Fokus.adoc)  |
@@ -67,7 +76,11 @@ Inhaltsverzeichnis (Auswahl) für [WCAG-Prüfschritte der BIK](https://github.co
 | 3.3.2 | A  | [Beschriftungen (Labels) oder Anweisungen](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.3.3.2%20Beschriftungen%20von%20Formularelementen%20vorhanden.adoc)  |
 | 3.3.3 | AA | [Vorschlag bei Fehler](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.3.3.3%20Hilfe%20bei%20Fehlern.adoc)  |
 | 3.3.4 | AA | [Fehlervermeidung (rechtlich, finanziell, Daten)](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.3.3.4%20Fehlervermeidung%20wird%20unterst%C3%BCtzt.adoc)  |	
-| **4. Prinzip** |  | **Robustheit** |
+
+## 4. Prinzip: Robustheit
+
+| Nr.  | Stufe  | Erfolgskriterium (Link)  |
+| :--- | -- | :------- |
 | 4.1.1 | A  | [Syntaxanalyse](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.4.1.1%20Korrekte%20Syntax.adoc)  |	
 | 4.1.2 | A  | [Name, Rolle, Wert](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.4.1.2%20Name-Rolle-Wert%20verf%C3%BCgbar.adoc)  |
 | 4.1.3 | AA | [Statusmeldungen](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.4.1.3%20Statusmeldungen%20programmatisch%20verf%C3%BCgbar.adoc)  |
