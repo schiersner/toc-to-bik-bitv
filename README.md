@@ -5,7 +5,7 @@ Inhaltsverzeichnis (Auswahl) für [WCAG-Prüfschritte der BIK](https://github.co
 
 * [1. Prinzip: Wahrnehmbarkeit](#1-prinzip-wahrnehmbarkeit)
 * [2. Prinzip: Bedienbarkeit](#2-prinzip-bedienbarkeit)
-* [3. Prinzip: Verständlichkeit](#3-prinzip-verständlichkeit)
+* [3. Prinzip: Verständlichkeit](#3-prinzip-verstaendlichkeit)
 * [4. Prinzip: Robustheit](#4-prinzip-robustheit)
 
 ## 1. Prinzip: Wahrnehmbarkeit
