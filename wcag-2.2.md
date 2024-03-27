@@ -1,4 +1,4 @@
-# Inhaltsverzeichnis für Prüfanleitungen dess BIK-Tests (nur WCAG 2.2)
+# Inhaltsverzeichnis für Prüfanleitungen des BIK-Tests (nur WCAG 2.2)
 
 Inhaltsverzeichnis (Auswahl) für [WCAG-Prüfschritte der BIK](https://github.com/BIK-BITV/BIK-Web-Test). Beinhaltet die 55 Erfolgskriterien der Konformitätsstufen A und AA der W3C
 [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/).
