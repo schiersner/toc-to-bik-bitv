@@ -74,10 +74,14 @@ Inhaltsverzeichnis (Auswahl) für [WCAG-Prüfschritte der BIK](https://github.co
 | 2.4.5 | AA | [Verschiedene Möglichkeiten](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.2.4.5%20Alternative%20Zugangswege.adoc)  |
 | 2.4.6 | AA | [Überschriften und Beschriftungen (Labels)](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.2.4.6%20Aussagekr%C3%A4ftige%20%C3%9Cberschriften%20und%20Beschriftungen.adoc)  |
 | 2.4.7 | AA | [Fokus sichtbar](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.2.4.7%20Aktuelle%20Position%20des%20Fokus%20deutlich.adoc)  |
+| 2.4.11  | AA  | [Fokus nicht verdeckt (Minimum)](https://github.com/BIK-BITV/BIK-Web-Test/blob/main/Pr%C3%BCfschritte/de/9.2.4.11%20Fokus%20nicht%20verdeckt%20(Minimum).adoc)  |
 | 2.5.1 | A  | [Zeigergesten](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.2.5.1%20Alternativen%20f%C3%BCr%20komplexe%20Zeiger-Gesten.adoc)  |
 | 2.5.2 | A  | [Abbruch der Zeigeraktion](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.2.5.2%20Zeigergesten-Eingaben%20k%C3%B6nnen%20abgebrochen%20oder%20widerrufen%20werden.adoc)  |
 | 2.5.3 | A  | [Beschriftung (Label) im Namen](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.2.5.3%20Sichtbare%20Beschriftung%20Teil%20des%20zug%C3%A4nglichen%20Namens.adoc)  |
 | 2.5.4 | A  | [Betätigung durch Bewegung](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.2.5.4%20Alternativen%20f%C3%BCr%20Bewegungsaktivierung.adoc)  |	
+| 2.5.7  | AA  | [Ziehbewegungen](https://github.com/BIK-BITV/BIK-Web-Test/blob/main/Pr%C3%BCfschritte/de/9.2.5.7%20Ziehbewegungen.adoc)  |
+| 2.5.8  | AA  | [Zielgröße (Minimum)](https://github.com/BIK-BITV/BIK-Web-Test/blob/main/Pr%C3%BCfschritte/de/9.2.5.8%20Zielgr%C3%B6%C3%9Fe%20(Minimum).adoc)  |
+
 
 ## 3. Prinzip: Verständlichkeit
 
@@ -89,10 +93,13 @@ Inhaltsverzeichnis (Auswahl) für [WCAG-Prüfschritte der BIK](https://github.co
 | 3.2.2 | A  | [Bei Eingabe](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.3.2.2%20Keine%20unerwartete%20Kontext%C3%A4nderung%20bei%20Eingabe.adoc)  |
 | 3.2.3 | AA | [Konsistente Navigation](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.3.2.3%20Konsistente%20Navigation.adoc)  |
 | 3.2.4 | AA | [Konsistente Kennzeichnung](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.3.2.4%20Konsistente%20Bezeichnung.adoc)  |	
+| 3.2.6  | A  | [Konsistente Hilfe](https://github.com/BIK-BITV/BIK-Web-Test/blob/main/Pr%C3%BCfschritte/de/9.3.2.6%20Konsistente%20Hilfe.adoc)  |
 | 3.3.1 | A  | [Fehlerkennzeichnung](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.3.3.1%20Fehlererkennung.adoc)  |
 | 3.3.2 | A  | [Beschriftungen (Labels) oder Anweisungen](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.3.3.2%20Beschriftungen%20von%20Formularelementen%20vorhanden.adoc)  |
 | 3.3.3 | AA | [Vorschlag bei Fehler](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.3.3.3%20Hilfe%20bei%20Fehlern.adoc)  |
 | 3.3.4 | AA | [Fehlervermeidung (rechtlich, finanziell, Daten)](https://github.com/BIK-BITV/BIK-Web-Test/blob/master/Pr%C3%BCfschritte/de/9.3.3.4%20Fehlervermeidung%20wird%20unterst%C3%BCtzt.adoc)  |	
+| 3.3.7  | A  | [Redundanter Eintrag](https://github.com/BIK-BITV/BIK-Web-Test/blob/main/Prüfschritte/de/9.3.3.7%20Redundanter%20Eintrag.adoc)  |
+| 3.3.8  | AA  | [Zugängliche Authentifizierung (Minimum)](https://github.com/BIK-BITV/BIK-Web-Test/blob/main/Pr%C3%BCfschritte/de/9.3.3.8%20Zug%C3%A4ngliche%20Authentifizierung%20(Minimum).adoc)  |
 
 ## 4. Prinzip: Robustheit
 
