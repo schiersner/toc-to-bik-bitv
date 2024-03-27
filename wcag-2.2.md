@@ -12,12 +12,12 @@ Inhaltsverzeichnis (Auswahl) für [WCAG-Prüfschritte der BIK](https://github.co
 
 | Nr.  | Stufe  | Erfolgskriterium (Link)  |
 | :--- | -- | :------- |
-| 2.4.11  | AA  | Focus Not Obscured (Minimum)  |
-| 2.5.7  | AA  | Dragging Movements  |
-| 2.5.8  | AA  | Target Size (Minimum)  |
+| 2.4.11  | AA  | [Fokus nicht verdeckt (Minimum)](https://github.com/BIK-BITV/BIK-Web-Test/blob/main/Pr%C3%BCfschritte/de/9.2.4.11%20Fokus%20nicht%20verdeckt%20(Minimum).adoc)  |
+| 2.5.7  | AA  | [Ziehbewegungen](https://github.com/BIK-BITV/BIK-Web-Test/blob/main/Pr%C3%BCfschritte/de/9.2.5.7%20Ziehbewegungen.adoc)  |
+| 2.5.8  | AA  | [Zielgröße (Minimum)](https://github.com/BIK-BITV/BIK-Web-Test/blob/main/Pr%C3%BCfschritte/de/9.2.5.8%20Zielgr%C3%B6%C3%9Fe%20(Minimum).adoc)  |
 | 3.2.6  | A  | [Konsistente Hilfe](https://github.com/BIK-BITV/BIK-Web-Test/blob/main/Pr%C3%BCfschritte/de/9.3.2.6%20Konsistente%20Hilfe.adoc)  |
-| 3.3.7  | A  | Redundant Entry  |
-| 3.3.8  | AA  | Accessible Authentication (Minimum)  |
+| 3.3.7  | A  | [Redundanter Eintrag](https://github.com/BIK-BITV/BIK-Web-Test/blob/main/Prüfschritte/de/9.3.3.7%20Redundanter%20Eintrag.adoc)  |
+| 3.3.8  | AA  | [Zugängliche Authentifizierung (Minimum)](https://github.com/BIK-BITV/BIK-Web-Test/blob/main/Pr%C3%BCfschritte/de/9.3.3.8%20Zug%C3%A4ngliche%20Authentifizierung%20(Minimum).adoc)  |
 
 
 ## 1. Prinzip: Wahrnehmbarkeit
