@@ -11,6 +11,7 @@ Inhaltsverzeichnis (Auswahl) für [WCAG-Prüfschritte der BIK](https://github.co
 ## Neu in WCAG 2.2
 
 | Nr.  | Stufe  | Erfolgskriterium (Link)  |
+| :--- | -- | :------- |
 | 2.4.11  | AA  | Focus Not Obscured (Minimum)  |
 | 2.5.7  | AA  | Dragging Movements  |
 | 2.5.8  | AA  | Target Size (Minimum)  |
