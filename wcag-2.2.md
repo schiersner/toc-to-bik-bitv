@@ -15,7 +15,7 @@ Inhaltsverzeichnis (Auswahl) für [WCAG-Prüfschritte der BIK](https://github.co
 | 2.4.11  | AA  | Focus Not Obscured (Minimum)  |
 | 2.5.7  | AA  | Dragging Movements  |
 | 2.5.8  | AA  | Target Size (Minimum)  |
-| 3.2.6  | A  | Consistent Help  |
+| 3.2.6  | A  | [Konsistente Hilfe](https://github.com/BIK-BITV/BIK-Web-Test/blob/main/Pr%C3%BCfschritte/de/9.3.2.6%20Konsistente%20Hilfe.adoc)  |
 | 3.3.7  | A  | Redundant Entry  |
 | 3.3.8  | AA  | Accessible Authentication (Minimum)  |
 
